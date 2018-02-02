@@ -5,7 +5,8 @@
 
 ##### 红黑树的介绍
 
-[参考博客][https://www.cnblogs.com/skywang12345/p/3624291.html]
+[参考博客][url]
+[url]: https://www.cnblogs.com/skywang12345/p/3624291.html
 
 
 
